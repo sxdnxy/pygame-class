@@ -20,3 +20,6 @@ pip freeze > requirements.txt
 ```shell
 pip install -r requirements.txt
 ```
+pip uninstall pygame-ce
+pip install pygame
+pip freeze > requirements.txt
